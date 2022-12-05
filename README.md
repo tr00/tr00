@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a computer science student currently studying at RWTH Aachen. 
+My main interests are compilers and high performance data structures.
+
 <!--
 **tr00/tr00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
